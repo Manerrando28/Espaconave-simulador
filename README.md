@@ -27,7 +27,8 @@ python3 simulador.py
 Este projeto é parte do sistema de monitoramento da espaconave.  
 - O **simulador em Python** gera dados de sensores (temperatura, umidade e luminosidade) para testes sem hardware físico.  
 - O **Wokwi** simula o ambiente de hardware (Arduino + sensores), permitindo validar o código embarcado.  
-- O **Node-RED** recebe os dados e exibe em tempo real, além de permitir salvar logs para análise.  
+- O **Node-RED** recebe os dados e exibe em tempo real, além de permitir salvar logs para análise.
+- Link video = https://youtu.be/DM6iCw0fZqc?si=Z-tuXvjhaRkuXzfb
 
 Na espaconave real, os sensores físicos substituirão o simulador, enviando dados diretamente para o Node-RED, que será responsável por monitorar e registrar as condições internas e externas da missão.
 ## Agradecimentos 🙏
